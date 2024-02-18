@@ -1,0 +1,15 @@
+C:\Users\Keanu\OneDrive\Documenten\Oefeningen C#\PRB99.ASN.PokemonBattleSim\PRB99.ASN.PokemonBattleSim\bin\Debug\net6.0\PRB99.ASN.PokemonBattleSim.exe
+C:\Users\Keanu\OneDrive\Documenten\Oefeningen C#\PRB99.ASN.PokemonBattleSim\PRB99.ASN.PokemonBattleSim\bin\Debug\net6.0\PRB99.ASN.PokemonBattleSim.deps.json
+C:\Users\Keanu\OneDrive\Documenten\Oefeningen C#\PRB99.ASN.PokemonBattleSim\PRB99.ASN.PokemonBattleSim\bin\Debug\net6.0\PRB99.ASN.PokemonBattleSim.runtimeconfig.json
+C:\Users\Keanu\OneDrive\Documenten\Oefeningen C#\PRB99.ASN.PokemonBattleSim\PRB99.ASN.PokemonBattleSim\bin\Debug\net6.0\PRB99.ASN.PokemonBattleSim.dll
+C:\Users\Keanu\OneDrive\Documenten\Oefeningen C#\PRB99.ASN.PokemonBattleSim\PRB99.ASN.PokemonBattleSim\bin\Debug\net6.0\PRB99.ASN.PokemonBattleSim.pdb
+C:\Users\Keanu\OneDrive\Documenten\Oefeningen C#\PRB99.ASN.PokemonBattleSim\PRB99.ASN.PokemonBattleSim\obj\Debug\net6.0\PRB99.ASN.PokemonBattleSim.csproj.AssemblyReference.cache
+C:\Users\Keanu\OneDrive\Documenten\Oefeningen C#\PRB99.ASN.PokemonBattleSim\PRB99.ASN.PokemonBattleSim\obj\Debug\net6.0\PRB99.ASN.PokemonBattleSim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keanu\OneDrive\Documenten\Oefeningen C#\PRB99.ASN.PokemonBattleSim\PRB99.ASN.PokemonBattleSim\obj\Debug\net6.0\PRB99.ASN.PokemonBattleSim.AssemblyInfoInputs.cache
+C:\Users\Keanu\OneDrive\Documenten\Oefeningen C#\PRB99.ASN.PokemonBattleSim\PRB99.ASN.PokemonBattleSim\obj\Debug\net6.0\PRB99.ASN.PokemonBattleSim.AssemblyInfo.cs
+C:\Users\Keanu\OneDrive\Documenten\Oefeningen C#\PRB99.ASN.PokemonBattleSim\PRB99.ASN.PokemonBattleSim\obj\Debug\net6.0\PRB99.ASN.PokemonBattleSim.csproj.CoreCompileInputs.cache
+C:\Users\Keanu\OneDrive\Documenten\Oefeningen C#\PRB99.ASN.PokemonBattleSim\PRB99.ASN.PokemonBattleSim\obj\Debug\net6.0\PRB99.ASN.PokemonBattleSim.dll
+C:\Users\Keanu\OneDrive\Documenten\Oefeningen C#\PRB99.ASN.PokemonBattleSim\PRB99.ASN.PokemonBattleSim\obj\Debug\net6.0\refint\PRB99.ASN.PokemonBattleSim.dll
+C:\Users\Keanu\OneDrive\Documenten\Oefeningen C#\PRB99.ASN.PokemonBattleSim\PRB99.ASN.PokemonBattleSim\obj\Debug\net6.0\PRB99.ASN.PokemonBattleSim.pdb
+C:\Users\Keanu\OneDrive\Documenten\Oefeningen C#\PRB99.ASN.PokemonBattleSim\PRB99.ASN.PokemonBattleSim\obj\Debug\net6.0\PRB99.ASN.PokemonBattleSim.genruntimeconfig.cache
+C:\Users\Keanu\OneDrive\Documenten\Oefeningen C#\PRB99.ASN.PokemonBattleSim\PRB99.ASN.PokemonBattleSim\obj\Debug\net6.0\ref\PRB99.ASN.PokemonBattleSim.dll

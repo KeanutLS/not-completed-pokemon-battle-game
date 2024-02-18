@@ -1,0 +1,16 @@
+D,Tackle,0,40,100,35,true
+D,Body Slam,0,85,100,15,true
+D,Splash,0,0,100,40,false
+D,Bind,0,15,85,20,true
+D,Ember,1,40,100,25,false
+D,Fire Fang,1,65,95,10,true
+D,Spark,2,65,100,20,true
+D,Bullet Seed,4,25,100,30,false
+D,Acid,5,40,100,30,false
+D,Water Gun,6,40,100,25,false
+D,Bite,7,60,100,25,true
+D,Ceaseless Edge,7,65,90,15,true
+H,Present,0,45,100,15,false
+H,Jungle Healing,4,20,100,10,false
+H,Purify,5,15,100,20,false
+H,Sparkling Aria,6,30,100,10,false

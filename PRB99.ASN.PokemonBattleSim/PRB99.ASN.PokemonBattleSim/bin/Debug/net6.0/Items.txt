@@ -1,0 +1,6 @@
+D,Small Bomb,10,A small bomb that damages the enemy Pokemon
+D,Miranda Fanta,15,Imposter Fanta that damages the enemey Pokemon
+D,Mega Bomb,25,A mega bomb that damages the enemy Pokemon pretty hard
+D,Expired Berry Juice,20,Sickening berry juice that damages the enemy Pokemon kinda bad
+H,Fresh Water,30,Healthy fresh water that hydrates and heals your Pokemon very strongly
+H,Oran Berry,10,A berry that heals your Pokemon
